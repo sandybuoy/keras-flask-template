@@ -6,3 +6,5 @@ For deployment Flask API is used to get predictions by providing inputs from the
 As the model training starts, several logs are generated to keep track of the performance of the model and a summary is saved in the end which will keep hold of different model trained.  
 
 In the end, the saved model can be stored and then ustilized by the flask server for the prediction.  
+
+## Note: The executions start from main folder (With CatDog Example).
