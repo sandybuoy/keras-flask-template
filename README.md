@@ -1,4 +1,4 @@
-# keras-template
+# keras-flask-template
 A template structure for Deep Learning Models that are implemented using Keras API.  
 This project focuses on how easy you design, configure, test and later on deploy your own model in an easier fashion.  
 For deployment Flask API is used to get predictions by providing inputs from the browser.  
