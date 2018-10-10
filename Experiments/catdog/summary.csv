@@ -1,0 +1,2 @@
+Version,Epochs,Hidden Layers,Dropout,Optimizer,Loss Function,Validation Loss,Validation Accuracy,Loss,Accuracy
+0,50,--,--,RMSprop(lr=1e-4),binary_crossentropy,1.3670337200164795,0.5999999940395355,0.148570043829883,0.9634146254237105

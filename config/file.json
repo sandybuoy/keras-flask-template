@@ -1,0 +1,16 @@
+{
+  "NAME": "catdog",
+  "NB_EPOCH": 50,
+  "STEPS_PER_EPOCH": 5,
+  "VALIDATION_STEPS": 2,
+  "BATCH_SIZE": 20,
+  "VERBOSE": 1,
+  "OPTIMIZER": "RMSprop(lr=1e-4)",
+  "LOSS": "binary_crossentropy",
+  "METRICS": "acc",
+  "NB_CLASSES": "--",
+  "N_HIDDEN": "--",
+  "VALIDATION_SPLIT": "--",
+  "DROPOUT": "--",
+  "RESHAPED": "--"
+}
