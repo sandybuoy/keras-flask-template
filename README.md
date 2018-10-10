@@ -8,6 +8,6 @@ As the model training starts, several logs are generated to keep track of the pe
 In the end, the user has the option to choose a saved model that can be ustilized by the flask server for the prediction.  
 
 ## Note:  
-###  The execution starts from main folder (With CatDog Example).  
+###  The execution starts from main>example.py (With CatDog Example).  
 ###  Model can be selected for deployment by running utils>choose_model.py
 ###  Finally, the Flask server can be started by running deploy_model>API.py
