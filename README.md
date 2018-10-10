@@ -7,4 +7,4 @@ As the model training starts, several logs are generated to keep track of the pe
 
 In the end, the saved model can be stored and then ustilized by the flask server for the prediction.  
 
-## Note: The executions start from main folder (With CatDog Example).
+## Note: The execution starts from main folder (With CatDog Example).
